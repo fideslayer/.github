@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: FidesLayer documentation
+    url: https://docs.fideslayer.com
+    about: Read the documentation before opening a support issue.
