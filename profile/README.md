@@ -32,6 +32,15 @@ workspace membership, and authorization are enforced at the service boundary.
 - [mcp-gateway](https://github.com/fideslayer/mcp-gateway) — authenticated MCP gateway
 - [auth-service](https://github.com/fideslayer/auth-service) — identity verification and authorization boundary
 - [infrastructure](https://github.com/fideslayer/infrastructure) — shared platform and environment infrastructure
+- [docs-website](https://github.com/fideslayer/docs-website) and [docs-mcp](https://github.com/fideslayer/docs-mcp) — public documentation site and documentation MCP service
+- [handbook](https://github.com/fideslayer/handbook) — project GitOps specification repository
+- [user-facing-agent-runtime](https://github.com/fideslayer/user-facing-agent-runtime) — user-facing agent runtime
+- [landing](https://github.com/fideslayer/landing) — public landing site
+- [workbench](https://github.com/fideslayer/workbench) — local development workbench
+- [email-management-service](https://github.com/fideslayer/email-management-service) — email-management service
+- [internal-cli](https://github.com/fideslayer/internal-cli) — local development CLI
+- [observability](https://github.com/fideslayer/observability) — shared observability assets
+- [assets](https://github.com/fideslayer/assets) — shared brand and product assets
 
 ## Open source and collaboration
 
