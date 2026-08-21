@@ -41,6 +41,7 @@ workspace membership, and authorization are enforced at the service boundary.
 - [internal-cli](https://github.com/fideslayer/internal-cli) — local development CLI
 - [observability](https://github.com/fideslayer/observability) — shared observability assets
 - [assets](https://github.com/fideslayer/assets) — shared brand and product assets
+- [.github](https://github.com/fideslayer/.github) — shared community health files
 
 ## Open source and collaboration
 
